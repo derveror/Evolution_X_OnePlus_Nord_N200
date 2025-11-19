@@ -6,7 +6,7 @@
 > This is custom firmware, which voids the warranty of your device. I am not responsible for any hardware failures, loss of data or explosions. Use at your own risk. Bugs and performance issues may arise compared to previous versions of android.
 
 # Installation Guide
-Before installation read the instructions: [Guide](https://github.com/derveror/Evolution_X_wahoo/releases/tag/A15_Guide)
+Before installation read the instructions: [Guide](https://github.com/derveror/Evolution_X_OnePlus_Nord_N200/releases/tag/A15_Guide)
 
 # Download Link
 
